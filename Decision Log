@@ -1,0 +1,10 @@
+Decision Log
+
+2026-07-05
+
+• Chose Google Sheets for Version 0.1.
+Reason:
+Fast prototyping.
+
+Future:
+Replaceable with PostgreSQL without API changes.
