@@ -1,5 +1,3 @@
-# community-catalogue
-AI-assisted. Community-governed. Fact-driven.
 # AI-Assisted Community Catalogue
 
 ### AI-assisted. Community-governed. Fact-driven.
